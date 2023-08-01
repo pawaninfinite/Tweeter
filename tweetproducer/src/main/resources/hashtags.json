@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "hashtag": "travel",
+    "genre": ["adventure", "nature", "exploration"]
+  },
+  {
+    "id": 2,
+    "hashtag": "foodie",
+    "genre": ["culinary", "foodphotography", "foodculture"]
+  },
+  {
+    "id": 3,
+    "hashtag": "fitness",
+    "genre": ["workout", "health", "nutrition"]
+  },
+  {
+    "id": 4,
+    "hashtag": "technology",
+    "genre": ["innovation", "gadgets", "technews"]
+  },
+  {
+    "id": 5,
+    "hashtag": "fashion",
+    "genre": ["style", "trends", "designer"]
+  },
+  {
+    "id": 6,
+    "hashtag": "art",
+    "genre": ["painting", "sculpture", "contemporary"]
+  },
+  {
+    "id": 7,
+    "hashtag": "music",
+    "genre": ["pop", "rock", "hiphop"]
+  },
+  {
+    "id": 8,
+    "hashtag": "photography",
+    "genre": ["landscape", "portrait", "streetphotography"]
+  },
+  {
+    "id": 9,
+    "hashtag": "nature",
+    "genre": ["wildlife", "outdoor", "naturalbeauty"]
+  },
+  {
+    "id": 10,
+    "hashtag": "pets",
+    "genre": ["dogs", "cats", "petsofinstagram"]
+  },
+  {
+    "id": 11,
+    "hashtag": "books",
+    "genre": ["reading", "literature", "bestsellers"]
+  },
+  {
+    "id": 12,
+    "hashtag": "movies",
+    "genre": ["action", "comedy", "drama"]
+  },
+  {
+    "id": 13,
+    "hashtag": "science",
+    "genre": ["research", "discoveries", "innovations"]
+  },
+  {
+    "id": 14,
+    "hashtag": "cooking",
+    "genre": ["recipes", "baking", "cheflife"]
+  },
+  {
+    "id": 15,
+    "hashtag": "sports",
+    "genre": ["football", "basketball", "tennis"]
+  },
+  {
+    "id": 16,
+    "hashtag": "beauty",
+    "genre": ["skincare", "makeup", "selfcare"]
+  },
+  {
+    "id": 17,
+    "hashtag": "cars",
+    "genre": ["supercars", "luxurycars", "automotive"]
+  },
+  {
+    "id": 18,
+    "hashtag": "architecture",
+    "genre": ["modernarchitecture", "historic", "design"]
+  },
+  {
+    "id": 19,
+    "hashtag": "naturephotography",
+    "genre": ["wildlifephotography", "landscapephotography", "macro"]
+  },
+  {
+    "id": 20,
+    "hashtag": "yoga",
+    "genre": ["meditation", "mindfulness", "wellness"]
+  }
+]
